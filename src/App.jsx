@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="App">
       <p>This is my react application ready for hosting.</p>
+      <p>I have added this line to test continuos deployment.</p>
     </div>
   );
 }
